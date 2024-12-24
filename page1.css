@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f8f9fa;
@@ -10,7 +10,7 @@ h1 {
     font-weight: bold;
 }
 
-/* Input Styling */
+
 input[type="text"] {
     border: 2px solid #007bff;
     border-radius: 5px;
@@ -33,7 +33,7 @@ button:hover {
     transform: scale(1.05);
 }
 
-/* Country Card Styling */
+
 .innerDivStyle {
     margin: 15px;
     padding: 20px;
@@ -56,14 +56,14 @@ button:hover {
     border-radius: 8px;
 }
 
-/* Display Area Grid */
+
 #displayArea {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 20px;
 }
 
-/* Footer Styling */
+
 footer {
     background-color: #004080;
 }
